@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suraj Duduskar.</h1>
-<h3 align="center">A passionate DevOps Engineer from India.</h3>
+<h3 align="center">A passionate Unix Admin turned DevOps Engineer from India.</h3>
 
 - 🔭 I’m currently working on **Azure DevOps**
-
-- 🌱 I’m currently learning **Azure DevOps Pipeline**
-
-- 📫 How to reach me **surajd182318@gmail.com**
+- 🌱 and exploring **Azure DevOps Pipeline**
+- 📫 reach me on gmail **surajd182318@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
